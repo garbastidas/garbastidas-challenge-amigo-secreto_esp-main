@@ -1,6 +1,6 @@
 # Alura Challenge: Amigo Secreto
 
-### • Gustavo Ropero
+### Autor: Gustavo Ropero
 
 ## Objetivo
 
