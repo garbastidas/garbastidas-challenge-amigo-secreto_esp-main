@@ -1,6 +1,6 @@
 # Alura Challenge: Amigo Secreto
 
-### - Gustavo Ropero
+### • Gustavo Ropero
 
 ## Objetivo
 
